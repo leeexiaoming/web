@@ -13,8 +13,8 @@ title                    : "Jiahui Mo"
 title_separator          : "-"
 name                     : &name "Jiahui Mo"
 description              : &description "Academic website of Jiahui Mo, Assistant Professor of Information Technology and Business Analytics at NC State University."
-url                      : "https://leeexiaoming.github.io"
-baseurl                  : "/web"
+url                      : "https://jiahuimo.com"
+baseurl                  : ""
 repository               : "leeexiaoming/web"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
