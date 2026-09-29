@@ -1,0 +1,84 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
+
+/* Site-specific refinements */
+:root {
+  --jmo-accent: #cc0000;
+  --jmo-accent-dark: #990000;
+}
+
+a {
+  text-decoration-color: rgba(204, 0, 0, 0.35);
+  text-underline-offset: 0.15em;
+}
+
+.masthead {
+  border-top: 4px solid var(--jmo-accent);
+}
+
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: var(--jmo-accent-dark);
+}
+
+.greedy-nav .visible-links a::before {
+  background: var(--jmo-accent);
+}
+
+.page__title {
+  letter-spacing: -0.025em;
+}
+
+.page__content h1 {
+  border-bottom-color: rgba(204, 0, 0, 0.2);
+}
+
+.btn--primary {
+  background-color: var(--jmo-accent);
+}
+
+.btn--primary:hover {
+  background-color: var(--jmo-accent-dark);
+}
+
+.author__avatar img {
+  object-fit: cover;
+  aspect-ratio: 1;
+}
