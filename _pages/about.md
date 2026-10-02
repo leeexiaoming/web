@@ -19,7 +19,4 @@ The University of Texas at Dallas
 
 ## Contact
 
-Poole College of Management<br>
-NC State University<br>
-Raleigh, NC 27607<br>
 [jhmo3@ncsu.edu](mailto:jhmo3@ncsu.edu)
