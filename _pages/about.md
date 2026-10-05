@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Information Technology and Business Analytics in the [Department of Information Technology, Analytics & Operations](https://poole.ncsu.edu/academic-departments/information-technology-analytics-and-operations/) at Poole College of Management, NC State University. I received my Ph.D. degree in Management Science from the University of Texas at Dallas.
+I am an Assistant Professor of Information Technology and Business Analytics in the [Department of Information Technology, Analytics & Operations](https://poole.ncsu.edu/faculty-and-research/it-analytics-operations-department/) at Poole College of Management, NC State University. I received my Ph.D. degree in Management Science from the University of Texas at Dallas.
 
 My research focuses on the economic impact of technologies and examines how emerging technologies shape individual behavior and firm performance across various contexts, including crowdsourcing, online labor markets, digital platforms, and social media. Methodologically, I draw on a broad range of approaches, including econometrics, design science, machine learning, experiments, and surveys. Through my research, I aim to generate managerial insights that help individuals and organizations make better decisions and improve performance.
 
