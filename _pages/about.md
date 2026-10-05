@@ -26,11 +26,11 @@ My research focuses on the economic impact of technologies and examines how emer
 ## Working Papers
 
 <div class="publication-list__item">
-  <p>Wangsheng Zhu, Jiahui Mo, Syam Menon, and Sumit Sarkar. “A Recommendation Framework for Crowdsourcing Contest Design.”</p>
+  <p>“A Recommendation Framework for Crowdsourcing Contest Design,” with Zhu, W., Menon, Y., and Sarkar, S.</p>
 </div>
 
 <div class="publication-list__item">
-  <p>Yuying Wang, Jiahui Mo, Le Wang, and Jianqing Chen. “Follow the Standard or Name Its Own Prize? An Empirical Study of Prize Strategies and Contest Success in Crowdsourcing.”</p>
+  <p>“Follow the Standard or Name Its Own Prize? An Empirical Study of Prize Strategies and Contest Success in Crowdsourcing,” with Wang, Y., Wang, L., and Chen, J.</p>
 </div>
 
 ## Contact
