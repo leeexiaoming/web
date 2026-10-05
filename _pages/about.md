@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Information Technology and Business Analytics in the [Department of Information Technology, Analytics & Operations](https://poole.ncsu.edu/academic-departments/information-technology-analytics-and-operations/) at NC State University's Poole College of Management.
+I am an Assistant Professor of Information Technology and Business Analytics in the [Department of Information Technology, Analytics & Operations](https://poole.ncsu.edu/academic-departments/information-technology-analytics-and-operations/) at Poole College of Management, NC State University. I received my Ph.D. degree in Management Science from the University of Texas at Dallas.
 
-My research focuses on the design and consequences of digital platforms. I investigate how platform features, information, incentives, and emerging technologies influence participation, performance, and welfare. I combine **applied econometrics**, **experiments**, **machine learning**, **large language models**, **text mining**, and **image analysis** in my work.
-
-My current interests include:
-
-- Digital platforms and online marketplaces
-- Open innovation and crowdsourcing contests
-- Online labor markets testing case
-- Social media advertising and online communities
-- AI-enabled services and human–AI interaction
+My research focuses on the economic impact of technologies and examines how emerging technologies shape individual behavior and firm performance across various contexts, including crowdsourcing, online labor markets, digital platforms, and social media. Methodologically, I draw on a broad range of approaches, including econometrics, design science, machine learning, experiments, and surveys. Through my research, I aim to generate managerial insights that help individuals and organizations make better decisions and improve performance.
 
 ## Selected Publications
 
